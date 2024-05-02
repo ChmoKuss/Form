@@ -1,6 +1,6 @@
 @import url("./config.css");
 @import url("./main.css");
-@import url(https://www.google.com/);
+@import url("https://www.google.com/");
 @font-face {
   font-family: Roboto;
   src: url("./src/font/RobotoCondensed-Italic-VariableFont_wght.woff");
