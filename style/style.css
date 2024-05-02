@@ -3,26 +3,26 @@
 @import url(https://www.google.com/);
 @font-face {
   font-family: Roboto;
-  src: url(/src/font/RobotoCondensed-Italic-VariableFont_wght.woff);
+  src: url("./src/font/RobotoCondensed-Italic-VariableFont_wght.woff");
   font-style: italic;
 }
 @font-face {
   font-family: Poppins-italic;
-  src: url(/src/font/AnyConv.com__Poppins-Italic.woff2);
+  src: url("./src/font/AnyConv.com__Poppins-Italic.woff2");
   font-style: italic;
 }
 @font-face {
   font-family: Poppins-Medium;
-  src: url(/src/font/AnyConv.com__Poppins-Medium.woff2);
+  src: url("./src/font/AnyConv.com__Poppins-Medium.woff2");
   font-style: italic;
 }
 @font-face {
   font-family: RobotoCondensed;
-  src: url(/src/font/AnyConv.com__RobotoCondensed-Italic-VariableFont_wght.woff2);
+  src: url("./src/font/AnyConv.com__RobotoCondensed-Italic-VariableFont_wght.woff2");
   font-style: italic;
 }
 @font-face {
   font-family: Poppins-woff;
-  src: url(/src/font/Poppins-Italic.woff);
+  src: url("./src/font/Poppins-Italic.woff");
   font-style: italic;
 }/*# sourceMappingURL=style.css.map */
